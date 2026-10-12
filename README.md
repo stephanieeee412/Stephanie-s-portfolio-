@@ -15,9 +15,10 @@ You can also double-click `index.html` to browse the site directly. Local images
 
 | File | Purpose |
 | --- | --- |
-| `index.html` | Introduction, five selected project cards, skills, education, and recommendation |
-| `projects.html` | Five projects with category filters |
+| `index.html` | Introduction, six selected project cards, skills, education, and recommendation |
+| `projects.html` | Six projects with category filters |
 | `project-wordpress.html` | Internship WordPress maintenance case study and compact client links |
+| `project-arcanevault.html` | Arcane Vault collection management, marketplace, trading, and analytics case study |
 | `project-genlinksg.html` | GenLinkSG / SkillSwap case study |
 | `project-powerbi.html` | Individual Emergency Department Waiting Time Analysis |
 | `project-budget.html` | IT1224 group case study, my contribution, findings, and report download |
@@ -38,6 +39,7 @@ To change the colors, edit the variables at the top of `css/style.css`. The `--c
 ## Content notes before applications
 
 - The Emergency Department Power BI project is labelled **individual work**. Its screenshots come from the submitted report. Numbers refer to the assignment dataset, not current hospital performance. Key Influencers is described as a built-in Power BI feature.
+- **Arcane Vault** is labelled as an academic project and uses the supplied assignment, feature description, and seven application screenshots. The case study covers core collection/category management, marketplace listings, wishlists, trade requests, dashboard charts, and the trading extension’s design. No grade, production deployment, or business outcome is assumed. The proposal and assignment documents are not included in the website package.
 - GenLinkSG and Dance CCA descriptions use the contribution descriptions and screenshots on your existing portfolio. No team size or exclusive ownership has been assumed.
 - The student budget case study is based on the supplied IT1224 group report, included unchanged as `assets/documents/Student_Budget_Statistical_Analysis_IT1224.pdf`. It identifies my documented one-sample t-test contribution, the 21-person survey, Python / SciPy, reported descriptive statistics, and non-significant results. Bursary amounts are presented as assignment proposals, not established policy. The source labels the course-group comparison inconsistently as paired and independent; the portfolio refers to it as a group comparison without assigning a test type.
 - **WordPress Website Maintenance** appears as one project card on the homepage and Projects page. Its case study contains the approved contribution wording and compact links to Top Pave, Kumon Singapore, Vainpot, and Chateau Wine Coolers. The illustrated card cover shows project context, not a client website screenshot. The Resume page links to the case study.

@@ -268,3 +268,9 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,
 .budget-results tbody th{font-weight:500;color:var(--ink)}
 .budget-results td:last-child{white-space:nowrap;color:var(--ink);padding-right:0}
 @media(max-width:680px){.budget-results{font-size:15px}.budget-results th,.budget-results td{padding:12px 7px}.budget-results thead th{font-size:13px}}
+
+/* Arcane Vault screenshots remain complete inside their preview frames. */
+.project-visual.arcane{padding:var(--card-padding);background:#f3e8ee}
+.project-visual.arcane img{object-fit:contain;object-position:center;border-radius:10px;background:#1b0d10}
+.arcane-detail .browser-frame img{max-height:none;object-fit:contain}
+.arcane-detail .gallery figure.full img{max-height:none}
